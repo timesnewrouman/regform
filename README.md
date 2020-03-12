@@ -1,7 +1,7 @@
 # Yandex.Praktikum
 #### Жигайков Роман
-#### https://github.com/timesnewrouman/timesnewrouman.github.io
+#### https://timesnewrouman.github.io/
 ###### Спринт 10
-###### Версия 2.0.0
+###### Версия 2.0.1
 
 Форма контроля и отправки данных при регистрации. Контроль принимаемых данных организован при помощи паттернов.
