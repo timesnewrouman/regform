@@ -1,6 +1,6 @@
 # Yandex.Praktikum
 #### Жигайков Роман
-#### https://timesnewrouman.github.io/regform/
+#### https://timesnewrouman.github.io/regform
 ###### Спринт 10
 ###### Версия 1.0.0
 
